@@ -40,6 +40,7 @@ border-bottom: 2px solid #f1f1f1;
 export const TabItem = styled.div`
 height: 100%;
 display: flex;
-flex-direction: center;
+flex-direction: row;
+justify-content: center;
 align-items: center;
 `
